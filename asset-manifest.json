@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/AlexYurchenk/nosleep.git/static/js/main.0df3807c.chunk.js",
+    "main.js.map": "/AlexYurchenk/nosleep.git/static/js/main.0df3807c.chunk.js.map",
+    "runtime-main.js": "/AlexYurchenk/nosleep.git/static/js/runtime-main.c03fc9e6.js",
+    "runtime-main.js.map": "/AlexYurchenk/nosleep.git/static/js/runtime-main.c03fc9e6.js.map",
+    "static/css/2.c8956ef5.chunk.css": "/AlexYurchenk/nosleep.git/static/css/2.c8956ef5.chunk.css",
+    "static/js/2.a7a95512.chunk.js": "/AlexYurchenk/nosleep.git/static/js/2.a7a95512.chunk.js",
+    "static/js/2.a7a95512.chunk.js.map": "/AlexYurchenk/nosleep.git/static/js/2.a7a95512.chunk.js.map",
+    "index.html": "/AlexYurchenk/nosleep.git/index.html",
+    "static/css/2.c8956ef5.chunk.css.map": "/AlexYurchenk/nosleep.git/static/css/2.c8956ef5.chunk.css.map",
+    "static/js/2.a7a95512.chunk.js.LICENSE.txt": "/AlexYurchenk/nosleep.git/static/js/2.a7a95512.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c03fc9e6.js",
+    "static/css/2.c8956ef5.chunk.css",
+    "static/js/2.a7a95512.chunk.js",
+    "static/js/main.0df3807c.chunk.js"
+  ]
+}
